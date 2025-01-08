@@ -1,0 +1,8 @@
+# NAME: somerule
+# AUTHOR: yzgolden86
+# REPO: https://github.com/yzgolden86/rule_for_mix
+# UPDATED: 2025-01-08
+
+payload:
+  - DOMAIN-KEYWORD,perplexity
+  - DOMAIN-SUFFIX,perplexity.ai
