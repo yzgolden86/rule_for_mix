@@ -1,0 +1,13 @@
+# NAME: somerule
+# AUTHOR: yzgolden86
+# REPO: https://github.com/yzgolden86/rule_for_mix
+# UPDATED: 2025-01-08
+
+payload:
+  - DOMAIN-KEYWORD,ciciai
+  - DOMAIN-SUFFIX,ciciaicdn.com
+  - DOMAIN-SUFFIX,ciciai.com
+  - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,bytedapm.com
+  - DOMAIN-SUFFIX,bytedance.com
+  - DOMAIN-SUFFIX,byteoversea.com
