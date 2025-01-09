@@ -2,6 +2,7 @@
 # AUTHOR: yzgolden86
 # REPO: https://github.com/yzgolden86/rule_for_mix
 # UPDATED: 2025-01-08
+# PS:暂未使用，只做记录
 
 rules:
   - DOMAIN-KEYWORD,gtimg,DIRECT
