@@ -4,7 +4,7 @@
 # UPDATED: 2025-01-08
 
 payload:
-  - DOMAIN-SUFFIX,sports3.gtimg.com
+  - DOMAIN-SUFFIX,gtimg.com
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN,tjupt.org
   - DOMAIN,steamcdn-a.akamaihd.net
