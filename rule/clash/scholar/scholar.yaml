@@ -2,11 +2,11 @@
 # AUTHOR: yzgolden86
 # REPO: https://github.com/yzgolden86/rule_for_mix
 # UPDATED: 2025-04-02
-# DOMAIN: 0
-# DOMAIN-SUFFIX: 228
-# TOTAL: 228
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 229
+# TOTAL: 229
 payload:
-
+  - DOMAIN,scholar.google.com
   - DOMAIN-SUFFIX,1lib.cloud
   - DOMAIN-SUFFIX,1lib.domains
   - DOMAIN-SUFFIX,1lib.education
